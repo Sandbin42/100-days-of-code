@@ -2,14 +2,26 @@
 
 ### Day 1: Friday June 2nd, 2017
 
+**Today's Progress**: Started doing freeCodeCamp's Advanced Algorithm Scripting challenges (completed 2!). Finished up some functionality on project and added all styling and background images.
+
+**Thoughts**: Regex can be very confusing. It is easy to all of the sudden have a regex that seems way tooooo long. It was very interesting playing around with it to validate US phone numbers correctly. The local weather project was a lot of fun!
+
+**Link(s) to Work**:
+1. [Validate US Telephone Numbers (challenge)](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
+2. [Record Collection (challenge)](https://www.freecodecamp.com/challenges/record-collection)
+3. [Show the Local Weather (project)](https://codepen.io/Sandbin42/full/EmGZzm/)
+
+<!--- 
+My template:
+### Day 1: Friday June 2nd, 2017
+
 **Today's Progress**:
 
 **Thoughts**:
 
 **Link(s) to Work**:
 
-
-<!--- ### Day 0: February 30, 2016 (Example 1)
+### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
