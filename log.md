@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: Saturday June 3rd, 2017
+
+**Today's Progress**: Started working on Build a Wikipedia Viewer project.
+
+**Thoughts**: Played around a lot with ajax request to wikipedia. Fought my way through a lot of strange errors... until it finally started working the way I want it to. I still don't completely understand why though - will research more.
+
+**Link(s) to Work**:
+[Build a Wikipedia Viewer](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
+
 ### Day 1: Friday June 2nd, 2017
 
 **Today's Progress**: Started doing freeCodeCamp's Advanced Algorithm Scripting challenges (completed 2!). Finished up some functionality on project and added all styling and background images.
