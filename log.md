@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: Monday June 5th, 2017
+
+**Today's Progress**: Solved Symmetric Difference and Exact Change challenges! Also added an input field and search button for the Wikipedia Viewer.
+
+**Thoughts**: Learned a lot about how Array.reduce works!
+
+**Link(s) to Work**:
+1. [Symmetric Difference (challenge)](https://www.freecodecamp.com/challenges/symmetric-difference)
+2. [Exact Change (challenge)](https://www.freecodecamp.com/challenges/exact-change)
+2. [Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
+
 ### Day 3: Sunday June 4th, 2017
 
 **Today's Progress**: Worked a bit on the Build a Wikipedia Viewer project. It now has a static test search term that returns the correct results and displays to the page. Next steps will be: 1) get the search term as input and search on a button press 2) add functionalty and button for random wiki page 3) style the page. I also spent a good amount of time on the Symmetric Difference challenge. Stumped at the moment, but will pick it up tomorrow with a fresh brain.
