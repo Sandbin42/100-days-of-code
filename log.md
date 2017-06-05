@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: Sunday June 4th, 2017
+
+**Today's Progress**: Worked a bit on the Build a Wikipedia Viewer project. It now has a static test search term that returns the correct results and displays to the page. Next steps will be: 1) get the search term as input and search on a button press 2) add functionalty and button for random wiki page 3) style the page. I also spent a good amount of time on the Symmetric Difference challenge. Stumped at the moment, but will pick it up tomorrow with a fresh brain.
+
+**Thoughts**: Trying to figure out how to use the Array.reduce function properly for the symmetric difference challenge... Hmmmmm...
+
+**Link(s) to Work**:
+1. [Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
+2. [Symmetric Difference (challenge)](https://www.freecodecamp.com/challenges/symmetric-difference)
+
 ### Day 2: Saturday June 3rd, 2017
 
 **Today's Progress**: Started working on Build a Wikipedia Viewer project.
