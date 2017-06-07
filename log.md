@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: Tuesday June 6th, 2017
+
+**Today's Progress**: Solved Inventory Update challenge! Started on the No Repeats Please chellenge. Worked a bit on Wikipedia Viewer functionality.
+
+**Thoughts**: Thought for a long time and experimented a bit with algorithms to come up with every permutation of a string for the No Repeats challenge. No success yet... will sleep on it. Also... on CodePen... don't forget to hit save when you are done for the night!!! I lost a bit of work from last night thinking the autosave feature would cover me.
+
+**Link(s) to Work**:
+1. [Inventory Update (challenge)](https://www.freecodecamp.com/challenges/inventory-update)
+2. [No Repeats Please (challenge)](https://www.freecodecamp.com/challenges/no-repeats-please)
+3. [Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
+
 ### Day 4: Monday June 5th, 2017
 
 **Today's Progress**: Solved Symmetric Difference and Exact Change challenges! Also added an input field and search button for the Wikipedia Viewer.
@@ -9,7 +20,7 @@
 **Link(s) to Work**:
 1. [Symmetric Difference (challenge)](https://www.freecodecamp.com/challenges/symmetric-difference)
 2. [Exact Change (challenge)](https://www.freecodecamp.com/challenges/exact-change)
-2. [Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
+3. [Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
 
 ### Day 3: Sunday June 4th, 2017
 
