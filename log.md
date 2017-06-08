@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: Wednesday June 7th, 2017
+
+**Today's Progress**: Worked on the Wikipedia Viewer a bit. It is now fully functional. Playing around with CSS to give it some style.
+
+**Thoughts**: There is a lot of neat CSS stuff to play with.
+
+**Link(s) to Work**:
+[Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/pen/wevYer?editors=1010)
+
 ### Day 5: Tuesday June 6th, 2017
 
 **Today's Progress**: Solved Inventory Update challenge! Started on the No Repeats Please chellenge. Worked a bit on Wikipedia Viewer functionality.
