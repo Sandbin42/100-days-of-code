@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: Friday June 9th, 2017
+
+**Today's Progress**: Finished up the Wikipedia Viewer proect!
+
+**Thoughts**: Missed a day yesterday with a busy week, but finished a project today! It is hard to tell the artistic side that I just need to stop playing around with cool CSS stuff and just call it done so I can move on.
+
+**Link(s) to Work**:
+[Build a Wikipedia Viewer (project)](https://codepen.io/Sandbin42/full/wevYer/)
+
 ### Day 6: Wednesday June 7th, 2017
 
 **Today's Progress**: Worked on the Wikipedia Viewer a bit. It is now fully functional. Playing around with CSS to give it some style.
