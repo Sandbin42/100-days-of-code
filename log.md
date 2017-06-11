@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: Saturday June 10th, 2017
+
+**Today's Progress**: Started into the "Use the Twitchtv JSON API" project on freeCodeCamp.
+
+**Thoughts**: Got a very decent amount of progress on the project. It is partially functional and formatted. In previous projects I have tried building almost all functionality, and then going back and applying CSS via Bootstrap. This project has called for doing both at the same time as I add pieces to it, which has been a good experience so far.
+
+**Link(s) to Work**:
+[Use the Twitchtv JSON API (project)](https://codepen.io/Sandbin42/full/qjZNxz/)
+
 ### Day 7: Friday June 9th, 2017
 
 **Today's Progress**: Finished up the Wikipedia Viewer proect!
