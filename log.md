@@ -2,12 +2,13 @@
 
 ### Day 9: Monday June 12th, 2017
 
-**Today's Progress**:
+**Today's Progress**: Completed the No Repeats Please challenge on fCC and the Recursion in Javascript lesson on CodeAcademy.
 
-**Thoughts**: 
+**Thoughts**: I was having difficulty with the No Repeats challenge, and kind of figured it would be best to solve it recursively. My understanding of recursion in Javascript was only very surface level though, so I went through the lesson on CodeAcademy, and applying recursion to all the functions throughout that lesson helped me understand a lot better. 
 
 **Link(s) to Work**:
-[No Repeats Please (challenge)](https://www.freecodecamp.com/challenges/no-repeats-please)
+1. [No Repeats Please (challenge)](https://www.freecodecamp.com/challenges/no-repeats-please)
+2. [Recursion in Javascript (lesson)](https://www.codecademy.com/courses/javascript-lesson-205/0/1)
 
 ### Day 8: Saturday June 10th, 2017
 
