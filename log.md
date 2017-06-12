@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: Monday June 12th, 2017
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to Work**:
+[No Repeats Please (challenge)](https://www.freecodecamp.com/challenges/no-repeats-please)
+
 ### Day 8: Saturday June 10th, 2017
 
 **Today's Progress**: Started into the "Use the Twitchtv JSON API" project on freeCodeCamp.
