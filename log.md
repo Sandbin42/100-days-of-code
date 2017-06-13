@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: Tuesday June 13th, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+[Make a Person (challenge)](https://www.freecodecamp.com/challenges/make-a-person)
+
+
 ### Day 9: Monday June 12th, 2017
 
 **Today's Progress**: Completed the No Repeats Please challenge on fCC and the Recursion in Javascript lesson on CodeAcademy.
