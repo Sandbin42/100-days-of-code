@@ -2,13 +2,13 @@
 
 ### Day 10: Tuesday June 13th, 2017
 
-**Today's Progress**:
+**Today's Progress**: Completed the Make a Person, and Map the Debris challenges on fCC! 
 
-**Thoughts**:
+**Thoughts**: These were fun little challenges that I learned a little more about how exactly objects and closures are working, as well as some interesting math.
 
 **Link(s) to Work**:
-
-[Make a Person (challenge)](https://www.freecodecamp.com/challenges/make-a-person)
+1. [Make a Person (challenge)](https://www.freecodecamp.com/challenges/make-a-person)
+2. [Map the Debris (challenge)](https://www.freecodecamp.com/challenges/map-the-debris)
 
 
 ### Day 9: Monday June 12th, 2017
