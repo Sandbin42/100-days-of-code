@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: Wednesday June 14th, 2017
+
+**Today's Progress**: Finished the last challenge in Advanced Algorithm Scripting on fCC front end!
+
+**Thoughts**:
+
+**Link(s) to Work**:
+
+1. [Pairwise (challenge)](https://www.freecodecamp.com/challenges/pairwise)
+
 ### Day 10: Tuesday June 13th, 2017
 
 **Today's Progress**: Completed the Make a Person, and Map the Debris challenges on fCC! 
