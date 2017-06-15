@@ -2,13 +2,13 @@
 
 ### Day 11: Wednesday June 14th, 2017
 
-**Today's Progress**: Finished the last challenge in Advanced Algorithm Scripting on fCC front end!
+**Today's Progress**: Finished the last challenge in Advanced Algorithm Scripting on fCC front end! Started working on the Javascript Calculator project.
 
-**Thoughts**:
+**Thoughts**: On the JavaScript Calculator I have decided to not use any additional frameworks or libraries. I will build it with vanilla CSS/JS and HTML only. I think this can be a good way to really learn some of the base language a little better, and not have to rely on a specific framework or library that I have gotten used to down the road.
 
 **Link(s) to Work**:
-
 1. [Pairwise (challenge)](https://www.freecodecamp.com/challenges/pairwise)
+2. [JavaScript Calculator](https://codepen.io/Sandbin42/pen/zzKjQg)
 
 ### Day 10: Tuesday June 13th, 2017
 
