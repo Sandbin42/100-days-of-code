@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: Thursday June 15th, 2017
+
+**Today's Progress**: Worked on the JavaScript Calculator project.
+
+**Thoughts**: Finished up most of the styling on the "dummy" calculator, and then just started to add some of the JS functionality.
+
+**Link(s) to Work**:
+
+[JavaScript Calculator](https://codepen.io/Sandbin42/pen/zzKjQg)
+
 ### Day 11: Wednesday June 14th, 2017
 
 **Today's Progress**: Finished the last challenge in Advanced Algorithm Scripting on fCC front end! Started working on the Javascript Calculator project.
