@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: Friday June 16th, 2017
+
+**Today's Progress**: JavaScript Calculator project fully functional.
+
+**Thoughts**: The project may still have some logic holes. It can be difficult to account for all the different use cases of even a simple calculator. 
+
+**Link(s) to Work**:
+
+[JavaScript Calculator](https://codepen.io/Sandbin42/pen/zzKjQg)
+
 ### Day 12: Thursday June 15th, 2017
 
 **Today's Progress**: Worked on the JavaScript Calculator project.
