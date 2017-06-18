@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: Saturday June 17th, 2017
+
+**Today's Progress**: Looking into logic holes/bugs in the Javascript calculator. Started building a skeleton for the Pomodoro Clock project.
+
+**Thoughts**: Busy weekend.. It can be hard to find motivation to do some coding after a long busy day. One thing that helps me is finding time while doing something menial(in my case, painting cabinets) to listen to some coding podcasts. This helps me get excited about being able to get on if even for a short time to do some coding of my own.
+
+**Link(s) to Work**:
+1. [JavaScript Calculator](https://codepen.io/Sandbin42/pen/zzKjQg)
+2. [Pomodoro Clock](https://codepen.io/Sandbin42/pen/OgWEGv)
+
 ### Day 13: Friday June 16th, 2017
 
 **Today's Progress**: JavaScript Calculator project fully functional.
